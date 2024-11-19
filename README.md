@@ -1,6 +1,4 @@
-## Hi, I'm Pashvi Prajapati👋
-
- I'm a computer science graduate from Brock University, where I pursued my passion for technology. 
+  Hi, I'm Pashvi Prajapati👋
 
 
 - 🔭 I’m currently working on Azure projects
